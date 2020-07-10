@@ -4,5 +4,5 @@
 #### Machine learning 
 #### Deep learning 
 #### Data science 
-#### image processing
+#### Image processing
 #### pygame practice
